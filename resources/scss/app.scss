@@ -1,3 +1,11 @@
 @import "~bootstrap/scss/bootstrap";
 
+.jumbotron {
+    height: 200px;
+    background-image: url('~res/imgs/jumbotron.jpg');
+    background-size: cover;
+}
 
+.small-font {
+    font-size: 0.7rem;
+}
